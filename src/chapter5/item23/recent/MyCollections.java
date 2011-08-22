@@ -1,0 +1,23 @@
+package chapter5.item23.recent;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+import chapter5.item23.Stamp;
+
+public class MyCollections {
+
+	// Collectionに格納できるObjectの型を指定する
+	private final Collection<Stamp> stamps = new ArrayList<Stamp>();
+
+	public MyCollections() {
+	}
+
+	public void add(Stamp collection) {
+		stamps.add(collection);
+	}
+
+	public Collection<Stamp> list() {
+		return stamps;
+	}
+}
