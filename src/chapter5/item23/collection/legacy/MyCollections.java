@@ -1,9 +1,9 @@
-package chapter5.item23.legacy;
+package chapter5.item23.collection.legacy;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
-import chapter5.item23.MyCollection;
+import chapter5.item23.collection.MyCollection;
 
 public class MyCollections {
 

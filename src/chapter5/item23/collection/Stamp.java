@@ -1,4 +1,4 @@
-package chapter5.item23;
+package chapter5.item23.collection;
 
 public class Stamp implements MyCollection {
 

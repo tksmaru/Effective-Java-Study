@@ -1,8 +1,8 @@
-package chapter5.item23.recent;
+package chapter5.item23.collections.recent;
 
 import java.util.Collection;
 
-import chapter5.item23.Stamp;
+import chapter5.item23.collection.Stamp;
 
 public class MyCollectionsTest {
 

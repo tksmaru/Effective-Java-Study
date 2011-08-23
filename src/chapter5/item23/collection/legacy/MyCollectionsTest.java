@@ -1,10 +1,10 @@
-package chapter5.item23.legacy;
+package chapter5.item23.collection.legacy;
 
 import java.util.Collection;
 import java.util.Iterator;
 
-import chapter5.item23.Coin;
-import chapter5.item23.Stamp;
+import chapter5.item23.collection.Coin;
+import chapter5.item23.collection.Stamp;
 
 public class MyCollectionsTest {
 
