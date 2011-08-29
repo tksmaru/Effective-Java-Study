@@ -1,4 +1,4 @@
-package chapter5.item23.collections.recent;
+package chapter5.item23.collection.recent;
 
 import java.util.ArrayList;
 import java.util.Collection;

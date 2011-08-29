@@ -1,6 +1,6 @@
 package chapter5.item23.collection;
 
-public class Stamp implements MyCollection {
+public class Stamp implements MyFavorites {
 
 	private String name;
 	private int price;

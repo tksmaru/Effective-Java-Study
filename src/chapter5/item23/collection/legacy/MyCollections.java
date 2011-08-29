@@ -3,7 +3,7 @@ package chapter5.item23.collection.legacy;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import chapter5.item23.collection.MyCollection;
+import chapter5.item23.collection.MyFavorites;
 
 public class MyCollections {
 
@@ -15,7 +15,7 @@ public class MyCollections {
 	public MyCollections() {
 	}
 
-	public void add(MyCollection collection) {
+	public void add(MyFavorites collection) {
 		// コンパイルは通るけど、警告が出まくってます。
 		stamps.add(collection);
 	}

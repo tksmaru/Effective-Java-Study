@@ -1,6 +1,6 @@
 package chapter5.item23.collection;
 
-public class Coin implements MyCollection {
+public class Coin implements MyFavorites {
 
 	private String name;
 	private int price;
