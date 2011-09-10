@@ -4,9 +4,8 @@ import java.util.Arrays;
 import java.util.EmptyStackException;
 
 /**
- * スタックをジェネリック型で実装したクラス。
- * 
- * @author maruyama
+ * スタックをジェネリック型で実装したクラス。<br>
+ * コンストラクタでelementsを初期化する際にObject型の配列をキャストするパターンで実装した場合。
  * 
  * @param <E>
  */

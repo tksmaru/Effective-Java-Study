@@ -6,8 +6,6 @@ import java.util.EmptyStackException;
 /**
  * スタックを配列で実装したクラス。
  * 
- * @author maruyama
- *
  */
 public class Stack {
 

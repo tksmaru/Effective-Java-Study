@@ -6,10 +6,8 @@ import java.util.List;
 
 /**
  * スタックをジェネリック型で実装したクラス。<br>
- * スタックをArrayListで実装することで配列の使用を避けた例。<br>
- * でも、ArrayListの内部実装は配列なので実は大して変わってない。
- * 
- * @author maruyama
+ * 項目25に従い、スタックをArrayListで実装することで配列の使用を避けた例。<br>
+ * でも、ArrayListの内部実装は配列なので実は大して変わらない。
  * 
  * @param <E>
  */
